@@ -1,4 +1,4 @@
-### pedra-papel-tesoura-lagarto-spock
+### Regras do jogo
 
 - Tesoura corta papel
 - Papel cobre pedra

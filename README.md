@@ -10,3 +10,9 @@
 - Papel refuta Spock
 - Spock vaporiza pedra
 - Pedra amassa tesoura
+
+### Como jogar?
+
+- Baixar o arquivo
+- Rodar pelo terminal
+- Escolher sua jogada escrevendo no terminal
